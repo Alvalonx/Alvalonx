@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello! I'm [Your Name]
 
-<!--
-**Alvalonx/Alvalonx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Game Programmer** and aspiring **Visual Effects Artist** with hands-on experience in creating immersive gaming experiences. I've worked on a variety of projects, focusing on both the technical and creative aspects of game development. Currently, I'm diving deeper into visual effects to expand my skills and bring more life to interactive worlds.
 
-Here are some ideas to get you started:
+### 🔧 My Key Skills:
+- **Programming Languages**: C#
+- **Game Engines**: Unity, Unreal Engine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+I'm currently learning **Visual Effects** and working to become a **Visual Effects Artist**. My goal is to enhance my games with immersive and realistic effects that captivate players.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/muhammadzafranalmajid)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat)]([https://alvalonportofolio.vercel.app/])
