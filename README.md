@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **Game Programmer** and aspiring 
 ### 🌱 Currently Learning
 I'm currently learning **Visual Effects** and working to become a **Visual Effects Artist**. My goal is to enhance my games with immersive and realistic effects that captivate players.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View-orange?style=flat&logo=adobeacrobatreader)](www.linkedin.com/in/muhammadzafranalmajid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/muhammadzafranalmajid)
 [![Portfolio](https://img.shields.io/badge/Portofolio-View-orange?style=flat&logo=adobeacrobatreader)]([https://alvalonportofolio.vercel.app/])
 [![CV](https://img.shields.io/badge/CV-View-orange?style=flat&logo=adobeacrobatreader)](https://www.canva.com/design/DAGV0hE_-0c/UBDmzqY-zA8iqFor9Va6iA/edit?utm_content=DAGV0hE_-0c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
