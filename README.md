@@ -11,5 +11,5 @@ I'm currently learning **Visual Effects** and working to become a **Visual Effec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/muhammadzafranalmajid)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat)]([https://alvalonportofolio.vercel.app/])
-[📄 View My CV](https://www.canva.com/design/DAGV0hE_-0c/UBDmzqY-zA8iqFor9Va6iA/edit?utm_content=DAGV0hE_-0c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![CV](https://img.shields.io/badge/CV-View-orange?style=flat&logo=adobeacrobatreader)](https://www.canva.com/design/DAGV0hE_-0c/UBDmzqY-zA8iqFor9Va6iA/edit?utm_content=DAGV0hE_-0c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
