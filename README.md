@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm a passionate **Game Programmer** and aspiring 
 - **Game Engines**: Unity, Unreal Engine
 
 ### 🌱 Currently Learning
-I'm currently learning **Visual Effects** and working to become a **Visual Effects Artist**. My goal is to enhance my games with immersive and realistic effects that captivate players.
+- **Game Programming**: Continuously improving my skills in game programming to refine mechanics, optimize code, and enhance player experiences.
+- **Visual Effects**: Exploring various techniques to add immersive and realistic effects that captivate players.
 
 ### 🌐 [Visit My Portfolio ](https://alvalonportofolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammadzafranalmajid)
